@@ -1,3 +1,4 @@
 [submodule "src/apps/typescriptVue"]
 	path = src/apps/typescriptVue
 	url = https://github.com/holidaying/typescriptVue.git
+	ignore = dirty
